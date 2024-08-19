@@ -4,7 +4,7 @@
   <h3>🌱 I’m currently learning everything 😅</h3>
   <h3>⚡ Fun fact: gak punya laptop</h3>
   
-  <h2> 💻 Lang : </h2>
+  ### 💻 Lang :
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-%23323330?style=for-the-badge&logo=php&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330?style=for-the-badge&logo=typescript&logoColor=white)
