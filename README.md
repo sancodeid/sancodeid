@@ -1,22 +1,22 @@
 <div align="center">
   <h1>👋 Hi, I’m Akmal Ihksan</h1>
-  <h4>👀 I’m interested in Web Programming</h4>
-  <p>🌱 I’m currently learning everything 😅</p>
-  <p>⚡ Fun fact: gak punya laptop</p>
+  <h3>👀 I’m interested in Web Programming</h3>
+  <h3>🌱 I’m currently learning everything 😅</h3>
+  <h3>⚡ Fun fact: gak punya laptop</h3>
   
-   💻 Lang :
+  <h2> 💻 Lang : </h2>
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-%23323330?style=for-the-badge&logo=php&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330?style=for-the-badge&logo=typescript&logoColor=white)
   
-   📊 GitHub Stats
+  <h2> 📊 GitHub Stats </h2>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sancodeid&theme=dark&hide_border=true)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sancodeid&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
   
-  ### 🔝 Top Contributed Repo
+  <h2> 🔝 Top Contributed Repo </h2>
   ![](https://github-contributor-stats.vercel.app/api?username=sancodeid&limit=5&theme=dark&combine_all_yearly_contributions=true)
   
-  ### 🌐 Socials
+  <h2> 🌐 Socials </h2>
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akmal_ihksan)
   ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akmal-ihksan-7177b1304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
