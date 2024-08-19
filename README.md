@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything 😅
 - ⚡ !Fun fact: gak punya laptop
   
-<center>
+<div style="display: flex; flex-direction: column; justify-content: center;">
  
 ### 💻 Lang :
 
@@ -48,7 +48,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=sancodeid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</center>
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
