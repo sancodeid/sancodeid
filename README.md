@@ -1,14 +1,14 @@
-<div align="center">
+
   <h1>👋 Hi, I’m Akmal Ihksan</h1>
   <h3>👀 I’m interested in Web Programming</h3>
   <h3>🌱 I’m currently learning everything 😅</h3>
   <h3>⚡ Fun fact: gak punya laptop</h3>
-  
+
   ### 💻 Lang 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-%23323330?style=for-the-badge&logo=php&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330?style=for-the-badge&logo=typescript&logoColor=white)
-  
+<div align="center">
   ### 📊 GitHub Stats 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sancodeid&theme=dark&hide_border=true)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sancodeid&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
