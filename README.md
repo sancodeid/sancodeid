@@ -9,7 +9,7 @@
   ![PHP](https://img.shields.io/badge/PHP-%23323330?style=for-the-badge&logo=php&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div align="center"
+
   
   ### 📊 GitHub Stats 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sancodeid&theme=dark&hide_border=true)<br/>
@@ -25,4 +25,4 @@
   
   ---
   [![](https://visitcount.itsvg.in/api?id=sancodeid&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+
