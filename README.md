@@ -1,8 +1,8 @@
 
-  <h1>👋 Hi, I’m Akmal Ihksan</h1>
-  <h3>👀 I’m interested in Web Programming</h3>
-  <h3>🌱 I’m currently learning everything 😅</h3>
-  <h3>⚡ Fun fact: gak punya laptop</h3>
+  -- 👋 Hi, I’m Akmal Ihksan
+  -- 👀 I’m interested in Web Programming
+  -- 🌱 I’m currently learning everything 😅
+  --⚡ Fun fact: gak punya laptop
 
   ### 💻 Lang 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
