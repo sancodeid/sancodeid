@@ -9,7 +9,7 @@
   ![PHP](https://img.shields.io/badge/PHP-%23323330?style=for-the-badge&logo=php&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div align="center">
+<div align="center"
   
   ### 📊 GitHub Stats 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sancodeid&theme=dark&hide_border=true)<br/>
