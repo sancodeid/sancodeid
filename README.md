@@ -1,8 +1,8 @@
 
-  -- 👋 Hi, I’m Akmal Ihksan
-  -- 👀 I’m interested in Web Programming
-  -- 🌱 I’m currently learning everything 😅
-  --⚡ Fun fact: gak punya laptop
+   👋 Hi, I’m Akmal Ihksan
+   👀 I’m interested in Web Programming
+   🌱 I’m currently learning everything 😅
+   ⚡ Fun fact: gak punya laptop
 
   ### 💻 Lang 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
