@@ -8,7 +8,7 @@
 
 
   
-  ### 📊 GitHub Stats 
+  <!-- ### 📊 GitHub Stats 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sancodeid&theme=dark&hide_border=true)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sancodeid&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
   
@@ -20,6 +20,6 @@
   ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
   ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akmal-ihksan-7177b1304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
-  ---
+  -->
   [![](https://visitcount.itsvg.in/api?id=sancodeid&icon=0&color=0)](https://visitcount.itsvg.in)
 
